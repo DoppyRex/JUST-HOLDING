@@ -1,0 +1,7 @@
+[Public]
+Object=(Name=CommandoSkins_Joker.ridl1,Class=Texture,Description="Joker")
+Object=(Name=CommandoSkins_Joker.ridl2,Class=Texture)
+Object=(Name=CommandoSkins_Joker.ridl3,Class=Texture)
+Object=(Name=CommandoSkins_Joker.ridl4,Class=Texture)
+Object=(Name=CommandoSkins_Joker.ridl5,Class=Texture)
+Object=(Name=CommandoSkins_Joker.ridl5jokerface,Class=Texture,Description="JokerFace")

@@ -1,0 +1,56 @@
+===============================================================================
+JailFight Mutator for Jailbreak by [-will-]
+===============================================================================
+
+Mail all bug reports and suggestions to [-will-] <will@byut.net>
+
+
+===============================================================================
+Installation
+===============================================================================
+
+1. Copy JailFight.u and JailFight.int to UnrealTournament\System.
+
+2. Add the following line to the [Engine.GameEngine] section in your server's
+   UnrealTournament.ini file:
+
+     ServerPackages=JailFight
+
+3. Play.
+
+
+===============================================================================
+Playing Info
+===============================================================================
+
+JailFight makes going to jail more interesting.
+
+It allows you to win prizes by killing your teammates with the Impact Hammer,
+Chainsaw, or whatever other basic weapon you have (which can be altered with
+the aid of a mutator).
+
+For each frag you get, you earn a JailFrag, when you reach a certain number
+of JailFrags you win an item, be it a weapon, or a pickup. You can even
+regenerate health when you kill someone, so you can carry on fighting longer!
+
+The settings can be controlled either through the mod menu, through manually
+editing JailFight.ini, or you can leave them at the defaults, which work quite
+well.
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Copyright (c) 2002 by [-will-] <will@byut.net>
+
+You MAY distribute this mutator through any electronic network, provided you
+include this file and leave the archive intact.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

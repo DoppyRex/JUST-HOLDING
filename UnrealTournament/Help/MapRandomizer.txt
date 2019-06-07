@@ -1,0 +1,178 @@
+---------------------------------------------------------------------------------------
+Map Randomizer Mutator 100                                            MapRandomizer.txt
+---------------------------------------------------------------------------------------
+
+The idea behind this Mutator is simple - to get Unreal Tournament to select maps at
+random, without changing any other part of the game. At the end of each level, the Map
+Randomizer picks a map from your map list at random. It doesn't change your map lists,
+and it won't select a map a second time until all the maps have been played once. When
+all the maps in the list have been played, it starts all over again, picking maps in 
+another random sequence.
+
+Because it's a Mutator, it'll work in any game type, and you don't need to set anything
+up to get it started. I've tested it both stand-alone and using a dedicated server;
+both styles of play work fine.
+
+For those of you who don't want to be tied to a specific set of maps, I've added a
+'Use All My Maps' feature. This is turned on and off from the Mod menu - select 'Map
+Randomizer...' from the Mod menu and check 'Use All My Maps'. When this option is on,
+the Mutator will ignore your map lists and pick a map at random from your Unreal
+Tournament installation, every time the level changes. Uncheck 'Use All My Maps' to go
+back to random map list cycling. Note that Use All My Maps is off by default.
+
+TouchStone, 25th June 2000.
+
+
+-----------------------------
+Installing the Map Randomizer
+-----------------------------
+
+Extract MapRandomizer.umod file from the file you've downloaded, and run it to install
+the Mutator. If you just get the File Associations dialog box, check out the Installing
+Mutators section of the Mutators FAQ, which you can find at
+http://www.planetunreal.com/mutation/FAQ/.
+
+
+------------------------
+Using the Map Randomizer
+------------------------
+
+The game must be set up to Auto Change Levels for the Map Randomizer to work at all.
+Select Start Practice Session or Start New Multiplayer Game from the main Unreal
+Tournament menu, and check 'Auto Change Levels'. This makes UT read your map list when
+it changes levels.
+
+To load the Map Randomizer, select your game type as usual and select the Mutators
+button. Add 'Map Randomizer' to the Mutators Used list, and check the 'Always use this
+Mutator configuration' box to make sure it's used each time the game switches levels.
+Close the Configure Mutators window and Start the game. Unreal Tournament remembers
+these settings, so you only need to do it once.
+
+If you run a server from the console, or a command-line, add the game option string
+'?mutator=MapRandomizer.MapRandomizer' to the execution command (without the quotes).
+
+
+-------------------------------
+Uninstalling the Map Randomizer
+-------------------------------
+
+Open Add/Remove Programs from the Control Panel, select Unreal Tournament and click
+the Add/Remove button. Check the Map Randomizer option in the list presented, then
+click Next and remove the mod. 
+
+
+----------------------------
+Uninstalling GWeb DeathMatch
+----------------------------
+
+If you installed my first attempt at randomizing Unreal Tournament - a game type
+called GWeb DeathMatch - you may as well remove it now. This Mutator goes far beyond
+the capabilities of that game type. To remove it, open Add/Remove Programs from the 
+Control Panel, select Unreal Tournament and click the Add/Remove button. Check the
+GWeb DeathMatch option in the list presented, then click Next and remove the mod.
+
+
+-----------------------------------------------------------------
+Technical Notes - Using the Map Randomizer with Custom Game Types
+-----------------------------------------------------------------
+
+When a game ends, the Mutator hijacks the map list type used by the type of game
+you're playing (specifically DeathMatchPlus.MapListType) by setting it to
+class'MapRandomizer.MapRandomizerMapList', which is derived from the standard MapList
+class. The Mutator sets up the map list by calling Initialise() during the call to
+Mutator.HandleEndGame(); the map list itself then overrides MapList.GetNextMap()
+to achieve random cycling and random map selection.
+
+So, if you're playing a custom game type which subclasses GetNextMap() from the
+standard MapList class, it won't be called. If your custom map list uses other
+features during the game, they'll be used as normal - because Map Randomizer does
+its work at the end of a level, it's only the GetNextMap() call you don't get access
+to.
+
+If you're putting together a custom game type and want to support the Map Randomizer,
+you may wish to export the MapRandomizer.MapRandomizerMapList source and add your
+enhancements to the GetNextMap() function defined there. If you do, please check
+the 'Legal Bit' section towards the end of this file.
+
+
+----------------
+Revision History
+----------------
+
+Version 100
+    o Initial release
+
+
+-----------------------
+Sincere thanks go to...
+-----------------------
+
+Well, I'd been waiting so long for this mod to come out, I ended up writing it myself.
+Of course, you can't complete something like this without a little assistance ... so
+I'd like to thank:
+
+*** MeltDown [meltdown@thirdtower.demon.nl]
+
+    If it wasn't for UClasses, I'd never have managed to navigate my way through UT's
+    class structure. This is one excellent program - check out Meltdown's pages at
+    http://www.planetunreal.com/unrealtower. Also, the basic code for the Mod menu
+    option is based on his ExternSniper and MonsterMadness mods. The earliest versions
+    of Map Randomizer were built using UClasses 2.7.0.
+
+*** Ob1-Kenobi [ob1@planetunreal.com]
+
+    The umod for the Mutator was created entirely using Ob1's umod Wizard, v1.26. Made
+    my life easier, and yours too! The program can be downloaded from Planet Unreal
+    (http://www.planetunreal.com, as if you didn't know).
+
+*** JbP [jbp@planetunreal.com]
+
+    Kudos to JbP for the excellent Mutator FAQ, which was invaluable when it came to
+    Mutator development help. Grab it from http://www.planetunreal.com/mutation/FAQ/.
+  
+*** [osX]RaZor!
+
+    Well, if it wasn't for [osX]RaZor!, half the features in Map Randomizer wouldn't be
+    there. His unfailing desire for 'more, more!' meant that the damn thing was
+    rewritten three (count 'em) times ... many thanks to [osX]RaZor! for his suggestions
+    and testing.
+
+If you're looking into Mutator development yourself, take the time to check out the
+Mutators forum over at mod central: http://unreal.infopop.net/.
+
+And finally ... the biggest thanks of all go to Mary, who put up with me and my
+obsession while I was developing the Map Randomizer. She has the patience of a
+saint...
+
+
+---------------
+Contact Details
+---------------
+
+If you have any suggestions for the Map Randomizer, find something that doesn't work
+the way you'd expect, or just want to drop me a line, send mail to
+touchstone@zen.co.uk.
+
+My web site is at http://www.zen.co.uk/home/page/graham.thompson/gweb/, but at the
+time of releasing this Mutator it doesn't have anything regarding UT mods or a link
+to the Mutator download. This may change...
+
+The latest version of Map Randomizer can be found at http://www.fileplanet.com. Fire
+up the website and search for "MapRandomizer".
+
+
+---------
+Legal Bit
+---------
+
+All of the contents of this package are created and owned by TouchStone subject to
+the caveats mentioned above. You are allowed to use, copy or modify the code, on the
+condition that no profit is made from the distribution of the resulting package(s).
+
+If you copy or modify the code, or any part of it, please mail me, and give me some
+credit for the hours spent sweating over an ash-stained keyboard.
+
+
+---------------------------------------------------------------------------------------
+Map Randomizer Mutator 100                                            MapRandomizer.txt
+---------------------------------------------------------------------------------------

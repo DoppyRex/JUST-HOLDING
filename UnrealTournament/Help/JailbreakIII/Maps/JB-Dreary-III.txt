@@ -1,0 +1,218 @@
+JB-Dreary-III
+
+ReadMe for Unreal Tournament
+
+----------------------------
+
+Title: JB-Dreary-III
+
+Filename: jb-dreary-iii.zip
+
+Author: Robin 'Rob' Pamart
+
+eMail Address: robert.pamart@wanadoo.fr
+
+Website URL:
+
+Release Date: Monday, January 07, 2002
+
+Last Update: Wednesday, September 25, 2002
+
+Version: 1.10
+
+Credits: Shane Caudle for the original map ; Daikiki for the Jailbreak mod ;
+Mychaeel for Screens and CameraSpots ; Arena 1 design inspired by a passage
+in Unreal map Dig (Rrajigar Mine), by Cliff Bleszinski
+
+Other levels by author: CTFM-AncientTitanV110
+
+                        JB-AncientTitan-III
+
+                        CTFM-JadePyramid][ 
+
+                        JB-Gauntlet-III (conversion)
+
+                        JB-SkullDrudgery-III (modification)
+
+                        CTFM-Drearylike
+
+                        JB-Command (conversion)
+
+                        JB-Community
+
+====================================================================================
+
+Play Information
+
+----------------
+
+Game: Unreal Tournament
+
+Level Name: JB-Dreary-III
+
+Game Type: UTOther
+
+Botmatch: Yes
+
+Single Player: No
+
+Teamplay: Yes
+
+Difficulty Settings: Only For Bots
+
+New Textures: No
+
+New Sounds: No
+
+New Music: No
+
+New Mutators: No
+
+Mods: No
+
+====================================================================================
+
+Construction
+
+------------
+
+Base: Conversion: CTF-Dreary, by Shane Caudle
+
+Build Time: 26 days to fix for JB III
+
+Recommended # of Players: 8-12
+
+Editor(s) Used: UnrealEd,
+
+Known Bugs: The switch of the trap in jails may not work before the first 30 or 60
+seconds of the game.
+
+A few small HOM bugs.
+
+====================================================================================
+
+Inventory
+
+---------
+
+Weapons: Flak Cannon, Ripper, Sniper Rifle, Pulse Blaster, GES Bio Rifle, Minigun,
+ASMD Shock Rifle, Rocket Launcher
+
+Armor and PowerUps: Thigh Pads, Health Packs, Shield Belt, Anti Grav Boots, Damage 
+Amplifier, Armor
+
+====================================================================================
+
+Mods
+
+----
+
+====================================================================================
+
+Installation
+
+------------
+
+Unzip jb-dreary-iii.zip
+
+Store the *.unr file in your Unreal Tournament/Maps directory along with the others
+(see guide below), then either doubleclick on it, or type
+
+open JB-Dreary-III
+
+in the console, or select the Map in a Botmatch or an Internet game.
+
+Guide:
+
+*.unr files go in Maps/
+
+*.utx files go in Textures/
+
+*.umx files go in Music/
+
+*.uax files go in Sounds/
+
+*.u and *.int files go in System/
+
+====================================================================================
+
+Extended Description
+
+--------------------
+
+This version has been rebuilt to suit for Jailbreak III. And I took the opportunity
+to get rid of bugs.
+
+====================================================================================
+
+Author's Notes
+
+--------------
+
+What's new in this version : 
+
+- jails are now in their own bases, to avoid endless botmatches 
+
+- no more translocation ; use the lifts !
+
+- added an escape route 
+
+- added CameraSpots in jails 
+
+- added a 2nd arena (thus leading to a new ScreenMap) 
+
+- replaced the UDamage in Blue Loft with ThighPads ; moved the Udamage to the center
+of the map 
+
+- fans fixed to appear online ; capture fans now move back to their initial position 
+
+- lifts on each side of jails are now IgnoreWhenEncroach, to avoid bot traffic-jams
+after a release 
+
+- a trap in jail that allows you to frag enemy prisoners ; if used wisely it can
+prevent a release (hint : activate the trap and watch those suckers dying with the
+CameraSpot) 
+
+- added a MapBanner 
+
+- some other minor things 
+
+====================================================================================
+
+Copyright / Permissions
+
+-----------------------
+
+This level is copyright 2002, by Robin 'Rob' Pamart
+
+Authors may NOT use this level as a base to build additional levels without explicit
+permission from the Original Author.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any
+other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this level through any electronic network (internet (web/ftp),
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by GT
+Interactive Software, Inc. under license. UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL TOURNAMENT and the UNREAL
+TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. All other
+trademarks and trade names are properties of their respective owners.
+
+====================================================================================
+
+====================================================================================
+
+ReadMe Template generated by UTReadMeTemplate.cgi
+
+created by Fuzzbuster{G3} <fuzzbuster@beyondunreal.com> for NaliCity
+
+Please e-mail me any suggestions or improvements you may have.. my ears are open
+
+Store this file in '/UnrealTournament/Help/' for best results. 
+

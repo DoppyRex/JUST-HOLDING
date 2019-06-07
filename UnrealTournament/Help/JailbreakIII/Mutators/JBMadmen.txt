@@ -1,0 +1,84 @@
+===============================================================================
+JBMadmen Mutator for Jailbreak by Mychaeel
+===============================================================================
+
+Mail all bug reports and suggestions to Mychaeel <mychaeel@planetjailbreak.net>
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+1. Double-click JBMadmen.umod and follow the instructions on your screen.
+
+2. Play.
+
+
+===============================================================================
+Non-umod Installation
+===============================================================================
+
+1. Copy JBMadmen.u, JBMadmen.int and JBMadmen.ini to
+   UnrealTournament\System
+   
+2. Play.
+
+
+===============================================================================
+Playing Info
+===============================================================================
+
+Bored in prison? Epic gave their bots artificial intelligence, this mutator
+adds some more realistic attitudes. Your bots are bored, or aggressive, or
+deeply despaired, or just plain mad while they are facing their near death in
+prison. Don't provoke them, or you might regret it.
+
+Additionally this mutator provides a way to set team damage independently
+inside and outside prison. Let the prisoners merrily kill each other while the
+real game outside goes with a much lower friendly fire damage setting; or
+prevent bloody fights in prison while allowing full team damage outside. To
+configure the mutator, select the JBMadmen command from the Mod menu.
+
+
+===============================================================================
+Version History
+===============================================================================
+
+Version 130
+- Fixed the friendly fire override setting messing up your regular setting.
+
+Version 121
+- Fixed a bug that occasionally led to empty bot shells
+- Removed tons of unnecessary log lines
+
+Version 120
+- Made this mutator server-side only and client-optional
+- Fixed an extremely stupid logging bug
+
+Version 110
+- Bots only shoot back in prison if it suits their current mood and character
+- Made messages from imprisoned bots optionally be broadcasted only in prison
+- Added mutator-specific bot message handling in prison
+- Fixed two stupid bugs in the configuration dialog box code
+- Made the mutator behave nicely when disabled
+
+Version 100
+- Initial release, based on an idea from WiseGuy
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Copyright (c) 2001-2002 by Mychaeel <mychaeel@planetjailbreak.com>
+
+You MAY distribute this mutator through any electronic network, provided you
+include this file and leave the archive intact.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

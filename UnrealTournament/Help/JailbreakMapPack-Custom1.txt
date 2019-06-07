@@ -1,0 +1,63 @@
+===============================================================================
+Jailbreak Custom Map Pack 1
+===============================================================================
+
+For feedback, suggestions and bug reports, visit http://www.planetjailbreak.com
+
+This map pack requires Jailbreak III. Download Jailbreak III at
+
+  http://www.planetjailbreak.com/download/mod/
+
+Furthermore this map pack requires the EPIC BonusPack #4. Download it at
+
+  http://www.unrealtournament.com/
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+Double-click the umod file and follow the instructions on the screen.
+
+
+===============================================================================
+Zip Installation
+===============================================================================
+
+The zip file includes information about in which subdirectories the files
+should be placed; simply extract all files in your UnrealTournament folder, and
+all files should go where they belong to.
+
+If that doesn't work out, extract the files manually into the following
+directories:
+
+  UnrealTournament\Help      *.txt
+  UnrealTournament\Maps      *.unr
+  UnrealTournament\Music     *.umx
+  UnrealTournament\System    *.u
+  UnrealTournament\Textures  *.utx
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Jailbreak III for Unreal Tournament
+
+Copyright (c) 2000-2002 by the UT Jailbreak III Team
+Contact <feedback@planetjailbreak.com> for feedback
+
+See the individual readme files in this archive for license statements for the
+maps and third-party components bundled with this map pack.
+
+This mod is freely available for noncommercial use. For any other use and
+distribution, please contact the Jailbreak Team <team@planetjailbreak.com> in
+advance for permission.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

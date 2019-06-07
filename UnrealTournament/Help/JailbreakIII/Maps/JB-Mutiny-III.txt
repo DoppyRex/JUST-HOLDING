@@ -1,0 +1,166 @@
+JB-Mutiny-III
+
+ReadMe for Unreal Tournament
+
+----------------------------
+
+Title: JB-Mutiny-III
+
+Filename: jb-mutiny-iii.zip
+
+Author: Cory Spooner 'TheSpoonDog'
+
+eMail Address: thespoondog@planetunreal.com
+
+Website URL: http://www.planetunreal.com/spoondog/
+
+Release Date: Tuesday, Nov 21, 2001
+
+Last Update: Tuesday, April 2, 2002
+
+Version: 2.00 (JB3 Enabled and enhanced)
+
+Credits: Thanks to um... Digital Warrior for constructing the fighter plane for me, the UTJB guys for feedback, and thanks to my m8 Jared for getting me photos of aircraft carriers so i knew what they looked like... sort of.  Thanks to Inf for the turrets.
+
+Other levels by author: JB-Hydro32, JB-IndusRage, JB-Hydro16 +v2 +-300, JB-Antipody-100 +110, JB-CrypTitan +200 +300, JB-Mutiny-100, JB-XeneX, JB-EpicBoy, Dm-M0f0, DM-XeneX, JB-Orphobeus, CTF-Hydro32, CTF-Orphobeus, CTF-Mutiny, CTF-IndusRage, CTFM-TechDream, CTFM-Hammer, CTFM-Cryptitan, CTFM-Aquamid][, CTFM-Obsession, CTFM-Morpheus.
+====================================================================================
+
+Play Information
+
+----------------
+
+Game: Unreal Tournament
+
+Level Name: JB-Mutiny-III
+
+Game Type: JailBreak
+
+Botmatch: Yes
+
+Single Player: No
+
+Teamplay: Yes
+
+Difficulty Settings: Only For Bots
+
+New Textures: No
+
+New Sounds: No
+
+New Music: No
+
+New Mutators: Yes
+
+Mods: No
+
+====================================================================================
+
+Construction
+
+------------
+
+Base: Original Map
+
+Build Time: Can't remember.
+
+Recommended # of Players: 8-12
+
+Editor(s) Used: UnrealEd, PhotoShop 6.0
+
+====================================================================================
+
+Inventory
+
+---------
+
+Weapons: Flak Cannon, GES BioRifle, Ripper, Sniper Rifle, Pulse Blaster,  Minigun, ASMD Shock Rifle, Rocket Launcher, Damage Amp.
+
+Armor and PowerUps: Shield Belt, Thigh Pads, Med Packs, Anti Grav Boots, Health Vials, Armor, Keg O' Health.
+
+====================================================================================
+
+Mods
+
+----
+
+====================================================================================
+
+Installation
+
+------------
+
+Unzip jb-mutiny-iii.zip
+
+Store the *.unr file in your Unreal Tournament/Maps directory along with the others
+(see guide below), then either doubleclick on it, or type
+
+open JB-Mutiny-III
+
+in the console, or select the Map in a Botmatch or an Internet game.
+
+Guide:
+
+*.unr files go in Maps/
+
+*.utx files go in Textures/
+
+*.umx files go in Music/
+
+*.uax files go in Sounds/
+
+*.u and *.int files go in System/
+
+====================================================================================
+
+Extended Description
+
+--------------------
+
+The setting is a aircraft carrier on the shores of New Zealand ;)  On only the third day into the 'official' world war III, a group of young rebel marines aboard the carrier were suspected of leaking important information relating to the allied forces' positions on the marine quarter.  On discovery that they were under threat, the traitorous rebel marines broke into the senior staff sleeping quarters, and all high-ranked personnel were thrown overboard.  Over half of the corrupt portion of the crew escaped on the carrier's aircraft, leaving only a few remaining to take care of the rest of the crew.  The uncorrupt marines, awakened by the unexpected departure of the aircraft, formed on the upper deck.  A rebel then flew over the carrier, dropping explosives and killing most of the marines on deck.  The few remaining patriot heroes are now left to fight the group of criminal comrades over jurisdiction of the carrier...  The war started three days ago, but the battle has just begun.
+
+====================================================================================
+
+Author's Notes
+
+--------------
+
+I made this stage for JB, dunno why I even made it.  Its gay like all my maps.  And gay like my pet south east asian musk rat. Bleh.  Edit:  This version is fixed for JB3.
+
+====================================================================================
+
+Copyright / Permissions
+
+-----------------------
+
+This level is copyright 2001, by Cory Spooner 'TheSpoonDog'
+
+Authors may NOT use this level as a base to build additional levels without explicit
+permission from the Original Author.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any
+other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this level through any electronic network (internet (web/ftp),
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by GT
+Interactive Software, Inc. under license. UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL TOURNAMENT and the UNREAL
+TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. All other
+trademarks and trade names are properties of their respective owners.
+
+====================================================================================
+
+====================================================================================
+
+ReadMe Template generated by UTReadMeTemplate.cgi
+
+created by Fuzzbuster{G3} <fuzzbuster@planetunreal.com> for NaliCity
+
+Please e-mail me any suggestions or improvements you may have.. my ears are open
+
+Store this file in '/UnrealTournament/Help/' for best results. 

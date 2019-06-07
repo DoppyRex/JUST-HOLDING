@@ -1,0 +1,152 @@
+JB-Deck32-110 -> needs SCREEN !
+
+ReadMe for Unreal Tournament
+
+----------------------------
+
+Title: JB-Deck32-III
+
+Filename: JB-Deck32-III.zip
+
+Original Map : CTF-Deck16]I[
+Original Authors (CTF Version) : Paul 'Red_Dwarf' Taylor, Ultron and -=¤willhaven¤=-
+Email Address : mr@paulta@force9.co.uk, harlan.carroll@juno.com, & willhaven@planetunreal.com		 
+
+... all credits belong to them !
+
+Conversion by Sexmachine.
+
+eMail Address: sexmachine@ut-jailbreak.de
+
+Website URL: http://www.ut-jailbreak.de
+
+Release Date: Thursday, Jan 24, 2002
+
+Last Update: Wednesday, Jun 26, 2002
+
+Version: 2.00
+
+Credits: Thanks to Daikiki for the great mod (UTJB),thanks to Mychaeel for the awesome 
+screen component and thanks to ElBundee for the one and only "herostatue" ... you guys ROCK !
+
+I also like to thank Hellsangie for her love and understanding.
+
+====================================================================================
+
+Play Information
+
+----------------
+
+Game: Unreal Tournament
+
+Level Name: JB-Deck32-III
+
+Game Type: UT Jailbreak
+
+Botmatch: Yes
+
+Single Player: No
+
+Teamplay: Yes
+
+Difficulty Settings: Only For Bots
+
+New Textures: Almost
+
+New Sounds: No
+
+New Music: No
+
+New Mutators: No
+
+Mods: Yes
+
+====================================================================================
+
+Construction
+
+------------
+
+Base: CTF-Deck16]I[ by Paul 'Red_Dwarf' Taylor, Ultron and -=¤willhaven¤=-
+
+Build Time: way to long.
+
+Recommended # of Players: 8-16
+
+Editor(s) Used: UnrealEd 2.0
+
+Known bugs in UT with map : When you have picked up the Toxin suit and then 
+pick up the shield belt, you loose the toxin suit attributes. 
+
+====================================================================================
+
+Mods
+
+----
+
+UTJailBreak
+
+Great mod for UT. A team game where your goal is to capture the other team in order to gain a point.
+
+====================================================================================
+
+Installation
+
+------------
+
+Unzip JB-Deck32.zip
+Open JB-Deck32-III
+
+in the console, or select the Map in a Botmatch or an Internet game.
+
+Guide:
+
+*.unr files go in Maps/
+
+*.utx files go in Textures/
+
+*.umx files go in Music/
+
+*.uax files go in Sounds/
+
+*.u and *.int files go in System/
+
+====================================================================================
+
+Changes
+
+-------
+
+- New jails and new arena
+- Mapbanner, Transloczones, Screens, Cameraspots
+
+====================================================================================
+
+Copyright / Permissions
+
+-----------------------
+
+This level is copyright by Paul 'Red_Dwarf' Taylor, Ultron and -=¤willhaven¤=-
+
+Authors may NOT use this level as a base to build additional levels without explicit
+permission from the Original Author.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any
+other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this level through any electronic network (internet (web/ftp),
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by GT
+Interactive Software, Inc. under license. UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL TOURNAMENT and the UNREAL
+TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. All other
+trademarks and trade names are properties of their respective owners.
+
+====================================================================================
+
+====================================================================================

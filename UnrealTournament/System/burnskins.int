@@ -1,0 +1,13 @@
+[Public]
+Object=(Name=burnskins.burn1,Class=Texture,Description="Mr Burns")
+Object=(Name=burnskins.burn2,Class=Texture)
+Object=(Name=burnskins.burn2T_1,Class=Texture)
+Object=(Name=burnskins.burn2T_3,Class=Texture)
+Object=(Name=burnskins.burn2T_2,Class=Texture)
+Object=(Name=burnskins.burn2T_0,Class=Texture)
+Object=(Name=burnskins.burn3,Class=Texture)
+Object=(Name=burnskins.burn3T_1,Class=Texture)
+Object=(Name=burnskins.burn3T_3,Class=Texture)
+Object=(Name=burnskins.burn3T_2,Class=Texture)
+Object=(Name=burnskins.burn3T_0,Class=Texture)
+Object=(Name=burnskins.burn5,Class=Texture)

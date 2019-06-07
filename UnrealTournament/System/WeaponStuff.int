@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=WeaponStuff.WeaponStuff,Class=Class,MetaClass=Engine.Mutator,Description="WeaponStuff")
+Object=(Name=WeaponStuff.ARModMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="WeaponStuff,WeaponStuff")

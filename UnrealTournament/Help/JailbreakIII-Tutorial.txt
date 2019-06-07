@@ -1,0 +1,72 @@
+===============================================================================
+Jailbreak III Tutorial
+===============================================================================
+
+For feedback, suggestions and bug reports, visit http://www.planetjailbreak.com
+
+This tutorial requires Jailbreak III. Download Jailbreak III at
+
+  http://www.planetjailbreak.com/download/mod/
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+Double-click the umod file and follow the instructions on the screen.
+
+
+===============================================================================
+Zip Installation
+===============================================================================
+
+The zip file includes information about in which subdirectories the files
+should be placed; simply extract all files in your UnrealTournament folder, and
+all files should go where they belong to.
+
+If that doesn't work out, extract the files manually into the following
+directories:
+
+  UnrealTournament\Help    *.txt
+  UnrealTournament\Maps    *.unr
+  UnrealTournament\Sounds  *.uax
+
+
+===============================================================================
+Playing Info
+===============================================================================
+
+Start the interactive tutorial by clicking the "Play the Jailbreak Tutorial"
+button in the "Start Practice Session" or "Start New Multiplayer Game" dialogs
+in Unreal Tournament.
+
+For Jailbreak versions prior to Service Pack 2 which don't have this button
+you can start the tutorial by double-clicking on JBTutorialMap in your Maps
+subdirectory of your Unreal Tournament base directory.
+
+Service Pack 2 is not required to play the Jailbreak tutorial, but it is
+recommended that you download and install it anyway. Get it at
+
+  http://www.planetjailbreak.com/download/mod/
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Jailbreak III for Unreal Tournament
+
+Copyright (c) 2000-2002 by the UT Jailbreak III Team
+Contact <feedback@planetjailbreak.com> for feedback
+
+This mod is freely available for noncommercial use. For any other use and
+distribution, please contact the Jailbreak Team <team@planetjailbreak.com> in
+advance for permission.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

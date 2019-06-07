@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=Handicap.HandicapMenuItem,Class=Class, MetaClass=UMenu.UMenuModMenuItem)
+Object=(Name=Handicap.Handicap,Class=Class,MetaClass=Engine.Mutator,Description="Handicapper, Allows in game self adjusting Handicaping to keep the weaker players from getting totally destroyed.")

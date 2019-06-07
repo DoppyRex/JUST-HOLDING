@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=Bender.BenderBot,Class=Class,MetaClass=BotPack.Bot,Description="Bender")
+Object=(Name=Bender.Bender,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Bender")

@@ -1,0 +1,8 @@
+[public]
+Object=(Name=BossSkins_silentlightning.lgtn1,Class=Texture,Description="Silent Lightning Clan")
+Object=(Name=BossSkins_silentlightning.lgtn2,Class=Texture)
+Object=(Name=BossSkins_silentlightning.lgtn3,Class=Texture)
+Object=(Name=BossSkins_silentlightning.lgtn4,Class=Texture)
+Object=(Name=BossSkins_silentlightning.lgtn4Xan,Class=Texture,Description=Smokey)
+Object=(Name=BossSkins_silentlightning.lgtn5Xan,Class=Texture)
+

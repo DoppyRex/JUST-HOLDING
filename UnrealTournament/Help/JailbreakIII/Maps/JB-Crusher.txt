@@ -1,0 +1,66 @@
+================================================================
+Title: Crusher
+Version: 1.0
+Release Date: 26 AUG 02
+Filename: JB-Crusher.unr
+Author: RevBillyG aka Aaron Tuxford
+Email Address: revbillyg@btinternet.com
+
+
+===============================================================
+--- Play Information ---
+Game: Unreal Tournament
+Level Name: JB-Crusher
+Single Player: Yes (vs. bots)
+Cooperative: no
+Assault: no
+Domination: no
+Dark Match: No
+Capture the flag: no
+Jaibreak: yes
+Difficulty Settings: No
+New Sounds: No
+New Graphics: No
+New Models: no
+Known bugs: No bugs.
+
+This map uses the SCREEN component.  See http://www.planetunreal.com/screen/
+for details.  You MUST have SCREEN installed for this map to run.  If you have played
+Jailbreak then you probably already have SCREENs installed as many Jailbreak maps
+use them.
+
+--- Construction ---
+Editor(s) used: UnrealEd
+Base: New level
+Construction Time: 2.5 days
+
+Version History
+----------------
+1.0 Initial release
+
+Installation
+------------
+Unzip "JB-Crusher-umod.zip". Double-click on the umod file to install the map.
+For "JB-Crusher.zip", install the .unr file into your map directory.
+
+Author's Notes
+--------------
+Please feel free to send any and all feedback, raves, complaints, or
+awesome  screenshots to revbillyg@btinternet.com
+Copyright / Permissions
+-----------------------
+This release is copyright 2002 by Aaron Tuxford
+Authors may NOT use this level as a base to build additional levels without asking first.
+You MAY distribute this release through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.  You may NOT in any way make money off this map unless you contact me first.
+
+Thank You
+-----------------------
+Willy for the tips and the readme ;) All the guys in irc.enterthegame.com #utjb
+
+----------------------
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc.  All Rights Reserved.  
+Distributed by GT Software, Inc. under license.  UNREAL TOURNAMENT and 
+the UNREAL TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. 
+All other trademarks and trade names are properties of their respective owners.

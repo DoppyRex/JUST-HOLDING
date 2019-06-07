@@ -1,0 +1,27 @@
+===============================================================================
+JBFatboy
+===============================================================================
+2002 by ElBundee <elbundee@planetjailbreak.com>
+The UT Jailbreak Team <www.planetjailbreak.com>
+===============================================================================
+
+- Jailed players get thin depending on their time in Jail
+- Free players grow up to normal fatness
+- Kills add a certain amount of fatness
+- Llamas get fat
+
+
+===============================================================================
+Current Known Bugs
+===============================================================================
+
+None. Email all bug reports and suggestions to
+elbundee@planetjailbreak.com
+
+
+===============================================================================
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

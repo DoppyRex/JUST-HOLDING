@@ -1,0 +1,7 @@
+[Public]
+Object=(Name=ArenaMatch.ArenaMatchMutator,Class=Class,MetaClass=Engine.Mutator,Description="Arena Match,Play only with the weapon specified in the Mods menu.")
+Object=(Name=ArenaMatch.ArenaPhysicsMutator,Class=Class,MetaClass=Engine.Mutator,Description="Arena Physics,Apply the physics modifications selected in the Arena Match configuration.")
+Object=(Name=ArenaMatch.ArenaConfigMenu,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="&Arena Match,Change options for the Arena Match and Arena Physics mutators.")
+Object=(Name=ArenaMatch.ArenaWeaponTab,Class=Class,MetaClass=ArenaMatch.ArenaPageWindow,Description="Arena Weapon(s),290,185")
+Object=(Name=ArenaMatch.ArenaPhysicsTab,Class=Class,MetaClass=ArenaMatch.ArenaPageWindow,Description="Arena Physics,290,190")
+Object=(Name=ArenaMatch.ArenaArmorTab,Class=Class,MetaClass=ArenaMatch.ArenaPageWindow,Description="Health and Armor,300,170")

@@ -1,0 +1,120 @@
+JB-Atothis
+
+ReadMe for Unreal Tournament
+
+----------------------------
+
+Title: Atothis's Lair
+
+Author: Cory 'SpoonDog' Spooner
+
+eMail Address: thespoondog@planetunreal.com
+
+Website URL: http://www.planetunreal.com/spoondog/
+
+Release Date: Tuesday, September 9, 2003
+
+Version: 1.00
+
+Credits: Thanks to Sexmachine, Snowdog, Chezdog, RevBillyG and Rob for extensive testing.  Thanks to Snow for the plants.
+
+Other levels by author: Lots, go look at www.mapraider.com or my website.
+
+====================================================================================
+
+Play Information
+
+----------------
+
+Game: Unreal Tournament
+
+Level Name: JB-Atothis
+
+Game Type: JailBreak
+
+Botmatch: Yes
+
+Single Player: No
+
+Teamplay: Yes
+
+Difficulty Settings: Only For Bots
+
+New Textures: No
+
+New Sounds: No
+
+New Music: No
+
+New Mutators: No
+
+Mods: No
+
+====================================================================================
+
+Construction
+
+------------
+
+Base: Original Map
+
+Build Time: Dunno
+
+Recommended # of Players: 6-8
+
+Editor(s) Used: UnrealEd, PhotoShop.
+
+====================================================================================
+
+Mods
+
+----
+
+UT JailBreak - The best mod ever.
+
+====================================================================================
+
+Extended Description
+
+--------------------
+
+In 3000BC there was an Egyptian Pharaoh named Atothis.  He was not a hugely demanding
+man but what he did like was to see his most skilled warriors prove their talent and
+loyalty before him.  Men guilty of crimes, punishable by death, were picked from the
+scum and taken to what the villagers called his "lair", to fight and ultimately meet
+their doom at the hand of Atothis's warriors.
+
+Now you are the warrior here, and you are not fighting mere prison-scum, you are
+fighting warriors as talented as yourself who will stop at nothing to spill your
+blood on these ancient grounds.  It's your chance to show Atothis that you could have
+been one of his warriors.
+
+
+====================================================================================
+
+Copyright / Permissions
+
+-----------------------
+
+This level is copyright 2003, by Cory Spooner 'TheSpoonDog'
+
+Authors may NOT use this level as a base to build additional levels without explicit
+permission from the Original Author.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any
+other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this level through any electronic network (internet (web/ftp),
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by GT
+Interactive Software, Inc. under license. UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL TOURNAMENT and the UNREAL
+TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. All other
+trademarks and trade names are properties of their respective owners.
+
+====================================================================================

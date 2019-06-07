@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=lego.lego,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Lego Man")
+
+Object=(Name=lego.legobot,Class=Class,MetaClass=BotPack.Bot,Description="Lego Man")

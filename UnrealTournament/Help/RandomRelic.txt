@@ -1,0 +1,25 @@
+===============================================================================
+RandomRelic
+===============================================================================
+2002 by ElBundee <elbundee@planetjailbreak.com>
+The UT Jailbreak Team <www.planetjailbreak.com>
+===============================================================================
+
+If you want to play with relics, but don't want all of them in the game at
+the same time - the RandomRelic is the solution. It simply spawns different
+relics by random.
+
+Configuration:
+
+If you want more than just one RandomRelic, edit the RandomRelic.ini in
+your System directory.
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

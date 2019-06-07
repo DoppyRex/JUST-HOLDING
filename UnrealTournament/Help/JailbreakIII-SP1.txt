@@ -1,0 +1,142 @@
+===============================================================================
+Jailbreak III Service Pack 1
+===============================================================================
+
+For feedback, suggestions and bug reports, visit http://www.planetjailbreak.com
+
+
+===============================================================================
+Compatibility Notes
+===============================================================================
+
+The updated files included in Jailbreak III Service Pack 1 are designed to be
+network-compatible with unpatched Jailbreak III.
+
+That means that you'll still be able to join and play on a game server that is
+running base Jailbreak III without version mismatches; and that server admins
+can safely update their servers with Jailbreak III Service Pack 1 without
+preventing players running base Jailbreak III from joining and playing on their
+server.
+
+
+===============================================================================
+Changes/Fixes
+===============================================================================
+
+Botmatch fixes:
+
+  * No occasional initial spawning in the wrong base anymore. Start spot is
+    always validated against your team before you spawn.
+
+
+Game server and more botmatch changes:
+
+  * No more occasional server crashes (or at least no more than usual for
+    Unreal Tournament servers).
+
+  * Performance increase in terms of processor resources. Game servers with
+    many players or botmatches with a lot of bots will run much smoother.
+  
+  * New option to balance all-human teams if they're unbalanced by one player.
+    The game adds a bot to the smaller team then to balance the teams even if
+    the total number of players exceeds the server's MinPlayers.
+  
+  * Arena fights aren't started during a release.
+  
+  * Llamaizing release protection now also kills jail campers and respawns them
+    in their home base with default health, weapons and no armor. In addition,
+    they get a comprehensive on-screen message that explains why that happened.
+
+  * Client compass always points to the correct release switch.
+
+  * Balancing by skill fixed.
+
+  * Plain-text version of web admin interface templates included. To use them
+    on dedicated Linux servers, copy them from the Web/plaintext subdirectory
+    into the Web directory.
+  
+  * Plain-text version of public game stats page included. To use it, rename
+    the file System\JBServerAdmin-plaintext.int to JBServerAdmin.int and
+    restart your server. If you want to customize this page, have a look into
+    that file and into jail_stats.uhtm or jail_stats_plaintext.uhtm.
+  
+  * JBCampkill automatically disabled if it's accidentally being run. Use the
+    built-in release protection settings instead.
+  
+  * Fixed web admin interface for Macintosh computers. Two of the template
+    files had file names that were too long for Macs.
+
+
+Game client and even more botmatch changes:
+
+  * Vastly faster server browser; ping all Jailbreak servers in a few seconds.
+    Credits for figuring it all out go to Eavy, http://eavy.beyondunreal.com.
+
+  * Performance increase as detailed above. Framerate vastly improved in some
+    maps (your mileage may vary).
+  
+  * Client and server Jailbreak versions displayed in F2 server info screen.
+    When reporting problems, please be sure to include both version tags.
+  
+  * Instantaneous crouching.
+  
+  * Low-fi release protection effect duly disappears after release protection
+    ends, and has the right color from the very beginning.
+  
+  * New option to display numerical ping and play time in the scoreboard. In
+    addition, a default scoreboard sort order can be set.
+  
+  * Various HUD fixes: Crosshair is displayed even if the player has configured
+    the HUD to be hidden at all times, and the health status box's opacity
+    matches the HUD's configured settings rather than being always translucent.
+  
+  * Screen doesn't crash Unreal Tournament anymore when recording a demo while
+    a web, chat or server slide updates its contents.
+  
+  * Extended language localization support.
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+Double-click the umod file and follow the instructions on the screen.
+
+
+===============================================================================
+Zip Installation
+===============================================================================
+
+The zip file includes information about in which subdirectories the files
+should be placed; simply extract all files in your UnrealTournament folder, and
+all files should go where they belong to.
+
+If that doesn't work out, extract the files manually into the following
+directories:
+
+  UnrealTournament\Help      *.txt
+  UnrealTournament\System    *.u
+  UnrealTournament\Web       *.uhtm
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Jailbreak III Service Pack 1
+Jailbreak III for Unreal Tournament
+
+Copyright (c) 2000-2002 by the UT Jailbreak III Team
+Contact <feedback@planetjailbreak.com> for feedback
+
+This mod is freely available for noncommercial use. For any other use and
+distribution, please contact the Jailbreak Team <team@planetjailbreak.com> in
+advance for permission.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

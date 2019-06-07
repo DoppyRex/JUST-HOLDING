@@ -1,0 +1,1112 @@
+Log: Log file open, 06/06/19 16:30:11
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 436
+Init: Compiled: Oct 24 2000 23:40:18
+Init: Command line: 
+Init: Base directory: C:\Users\jory.ettinger-smith\Desktop\UnrealTournament\System\
+Init: Character set: Unicode
+Log: Bound to Engine.dll
+Log: Bound to Core.dll
+Log: Bound to Window.dll
+Init: Object subsystem initialized
+Init: Computer: ZC208
+Init: User: joryettingersmith
+Init: Memory total: Phys=2097151K Pagef=4194303K Virt=2097024K
+Init: Working set: 32000 / 159000
+Init: CPU Speed=2808.006201 MHz
+Init: CPU Page size=4096, Processors=8
+Init: CPU Detected: PentiumPro-class processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Mouse info: 6 10 1
+Init: Initializing DirectDraw
+Log: DirectDraw drivers:
+Log:    display (Primary Display Driver)
+Init: DirectDraw initialized successfully
+Init: Client initialized
+Log: Bound to Render.dll
+Init: Lighting subsystem initialized
+Init: Rendering initialized
+Log: LoadMap: Entry
+Log: Bound to Fire.dll
+Log: Bound to IpDrv.dll
+Log: Game class is 'UTIntro'
+Log: Level is Level Entry.MyLevel
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+Log: Browse: CityIntro.unr?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: CityIntro.unr?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: Collecting garbage
+Log: Purging garbage
+Log: -0.0ms Unloading: Package Render
+Log: Garbage: objects: 16406->16405; refs: 224625
+Log: Game class is 'UTIntro'
+Log: Level is Level CityIntro.MyLevel
+Log: Bringing Level CityIntro.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is CityIntro.Mutator1
+Init: Initialized moving brush tracker for Level CityIntro.MyLevel
+Log: Bound to UWeb.dll
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 CityIntro.TMale0
+Init: Input system initialized for WindowsViewport0
+Log: Opened viewport
+Log: Bound to D3D9Drv.dll
+Log: Initializing D3D9Drv...
+Log: Enter SetRes()
+Log: D3D adapter driver      : igdumdim32.dll
+Log: D3D adapter description : Intel(R) HD Graphics 630
+Log: D3D adapter id          : 0x8086:0x591B
+Init: Depth bits: 24
+Log: 8 Texture Mapping Units found
+Log: Trying to use S3TC extension.
+Log: MinLogTextureSize = 2
+Log: MaxLogTextureSize = 13
+Log: UseDetailAlpha = 1
+Log: Bound to Galaxy.dll
+Init: Galaxy is using DirectSound
+Init: Galaxy initialized
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Game engine initialized
+Log: Startup time: 3.332649 seconds
+DevMusic: Load music: Music Uttitle.Uttitle
+Log: Enter SetRes()
+Log: UnSetRes() -> m_d3d9 != NULL
+Log: D3D adapter driver      : igdumdim32.dll
+Log: D3D adapter description : Intel(R) HD Graphics 630
+Log: D3D adapter id          : 0x8086:0x591B
+Init: Depth bits: 24
+Log: 8 Texture Mapping Units found
+Log: Trying to use S3TC extension.
+Log: MinLogTextureSize = 2
+Log: MaxLogTextureSize = 13
+Log: UseDetailAlpha = 1
+Log: URL: Adding default option Name=loki
+Log: URL: Adding default option Class=BotPack.TMale2
+Log: URL: Adding default option team=255
+Log: URL: Adding default option skin=SoldierSkins_Borg.borg
+Log: URL: Adding default option Face=SoldierSkins_Borg.Vent
+Log: URL: Adding default option Voice=BotPack.VoiceMaleTwo
+Log: Browse: Index.unr?entry?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: Failed; returning to Entry
+Init: Shut down moving brush tracker for Level CityIntro.MyLevel
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 Entry.TMale1
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: Creating root window: UMenu.UMenuRootWindow
+DevMusic: Unregister music: Music Uttitle.Uttitle
+DevMusic: Load music: Music utmenu23.utmenu23
+Warning: Failed to load 'Package0': Can't find file for package 'Package0'
+Warning: Failed to load 'Texture Package0.Screenshot': Can't find file for package 'Package0'
+Warning: Failed to load 'Package1': Can't find file for package 'Package1'
+Warning: Failed to load 'LevelSummary Package1.LevelSummary': Can't find file for package 'Package1'
+Log: URL: Adding default option Name=loki
+Log: URL: Adding default option Class=BotPack.TMale2
+Log: URL: Adding default option team=255
+Log: URL: Adding default option skin=SoldierSkins_Borg.borg
+Log: URL: Adding default option Face=SoldierSkins_Borg.Vent
+Log: URL: Adding default option Voice=BotPack.VoiceMaleTwo
+Log: Browse: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Collecting garbage
+Log: Purging garbage
+Log: -0.0ms Unloading: Package CityIntro
+Log: -0.0ms Unloading: Package city
+Log: -0.0ms Unloading: Package ArenaTex
+Log: -0.0ms Unloading: Package ShaneSky
+Log: -0.0ms Unloading: Package openingwave
+Log: -0.0ms Unloading: Package Uttitle
+Log: -0.0ms Unloading: Package Handicap
+Log: -0.0ms Unloading: Package MapRandomizer
+Log: -0.0ms Unloading: Package MultiMesh
+Log: -0.0ms Unloading: Package EpicCustomModels
+Log: -0.0ms Unloading: Package CTF-HallOfGiants
+Log: -0.0ms Unloading: Package Skaarj
+Log: -0.0ms Unloading: Package SpaceFX
+Log: -0.0ms Unloading: Package Addon1
+Log: -0.0ms Unloading: Package Nether
+Log: -0.0ms Unloading: Package JBTutorial
+Log: Garbage: objects: 31390->29787; refs: 601866
+Log: Game class is 'JailBreak'
+Log: Level is Level JB-Alcatraz.MyLevel
+Log: Bringing Level JB-Alcatraz.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is JB-Alcatraz.JBMutator0
+ScriptLog: Running Jailbreak JB3 SP2
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook0 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 JB-Alcatraz.TMale2
+Init: Initialized moving brush tracker for Level JB-Alcatraz.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: RocketPack9 fell out of the world!
+DevMusic: Unregister music: Music utmenu23.utmenu23
+DevMusic: Load music: Music Godown.Godown
+Localization: No localization: JB-Alcatraz.Default.CHColor (int)
+Localization: No localization: JB-Alcatraz.Default.StatusR (int)
+Localization: No localization: JB-Alcatraz.Default.StatusB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitArena (int)
+Localization: No localization: JB-Alcatraz.Default.SlashR (int)
+Localization: No localization: JB-Alcatraz.Default.SlashB (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaY (int)
+ScriptWarning: TMale2 JB-Alcatraz.TMale2 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale2 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale2 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptLog: ProcessServerTravel: JB-Alcatraz.unr
+Log: Server switch level: JB-Alcatraz.unr
+Log: Browse: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Shut down moving brush tracker for Level JB-Alcatraz.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: -0.0ms Unloading: Package FCommandoSkins
+Log: -0.0ms Unloading: Package SGirlSkins
+Log: -0.0ms Unloading: Package SoldierSkins
+Log: -0.0ms Unloading: Package CommandoSkins
+Log: -0.0ms Unloading: Package Relics
+Log: Garbage: objects: 30572->29956; refs: 603895
+Log: Game class is 'JailBreak'
+Log: Level is Level JB-Alcatraz.MyLevel
+Log: Bringing Level JB-Alcatraz.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is JB-Alcatraz.JBMutator1
+ScriptLog: Running Jailbreak JB3 SP2
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook1 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 JB-Alcatraz.TMale3
+Init: Initialized moving brush tracker for Level JB-Alcatraz.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: RocketPack9 fell out of the world!
+Localization: No localization: JB-Alcatraz.Default.CHColor (int)
+Localization: No localization: JB-Alcatraz.Default.StatusR (int)
+Localization: No localization: JB-Alcatraz.Default.StatusB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitArena (int)
+Localization: No localization: JB-Alcatraz.Default.SlashR (int)
+Localization: No localization: JB-Alcatraz.Default.SlashB (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaY (int)
+ScriptWarning: TMale2 JB-Alcatraz.TMale3 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale3 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale3 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale3 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale3 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptLog: ProcessServerTravel: JB-Alcatraz.unr
+Log: Server switch level: JB-Alcatraz.unr
+Log: Browse: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Shut down moving brush tracker for Level JB-Alcatraz.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: -0.0ms Unloading: Package SoldierSkins
+Log: -0.0ms Unloading: Package SGirlSkins
+Log: -0.0ms Unloading: Package Relics
+Log: Garbage: objects: 30586->30090; refs: 605503
+Log: Game class is 'JailBreak'
+Log: Level is Level JB-Alcatraz.MyLevel
+Log: Bringing Level JB-Alcatraz.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is JB-Alcatraz.JBMutator2
+ScriptLog: Running Jailbreak JB3 SP2
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook2 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 JB-Alcatraz.TMale4
+Init: Initialized moving brush tracker for Level JB-Alcatraz.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Localization: No localization: JB-Alcatraz.Default.CHColor (int)
+Localization: No localization: JB-Alcatraz.Default.StatusR (int)
+Localization: No localization: JB-Alcatraz.Default.StatusB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitArena (int)
+Localization: No localization: JB-Alcatraz.Default.SlashR (int)
+Localization: No localization: JB-Alcatraz.Default.SlashB (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaY (int)
+ScriptWarning: TMale2 JB-Alcatraz.TMale4 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale4 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptWarning: TMale2 JB-Alcatraz.TMale4 (Function Engine.Pawn.ChangedWeapon:0071) Accessed None
+ScriptLog: ProcessServerTravel: JB-Alcatraz.unr
+Log: Server switch level: JB-Alcatraz.unr
+Log: Browse: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: JB-Alcatraz.unr?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Shut down moving brush tracker for Level JB-Alcatraz.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: -0.0ms Unloading: Package FCommandoSkins
+Log: -0.0ms Unloading: Package SoldierSkins
+Log: -0.0ms Unloading: Package CommandoSkins
+Log: -0.0ms Unloading: Package Relics
+Log: Garbage: objects: 30778->30276; refs: 607735
+Log: Game class is 'JailBreak'
+Log: Level is Level JB-Alcatraz.MyLevel
+Log: Bringing Level JB-Alcatraz.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Game=JailBreak.JailBreak?Mutator=?Name=loki?Class=BotPack.TMale2?team=255?skin=SoldierSkins_Borg.borg?Face=SoldierSkins_Borg.Vent?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is JB-Alcatraz.JBMutator3
+ScriptLog: Running Jailbreak JB3 SP2
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+ScriptWarning: JBRelicRedemptionHook JB-Alcatraz.JBRelicRedemptionHook3 (Function JailBreak.JBRelicRedemptionHook.IsInZone:001C) Accessed None
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 255
+ScriptLog: Login: loki
+Log: Possessed PlayerPawn: TMale2 JB-Alcatraz.TMale5
+Init: Initialized moving brush tracker for Level JB-Alcatraz.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Localization: No localization: JB-Alcatraz.Default.CHColor (int)
+Localization: No localization: JB-Alcatraz.Default.StatusR (int)
+Localization: No localization: JB-Alcatraz.Default.StatusB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitTeamB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitJailB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeR (int)
+Localization: No localization: JB-Alcatraz.Default.DigitFreeB (int)
+Localization: No localization: JB-Alcatraz.Default.DigitArena (int)
+Localization: No localization: JB-Alcatraz.Default.SlashR (int)
+Localization: No localization: JB-Alcatraz.Default.SlashB (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreTeamDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreFreeDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.ScoreJailDeltaZ (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedDeltaY (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaX (int)
+Localization: No localization: JB-Alcatraz.Default.TargetBlockedHUDDeltaY (int)
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Engine.dll
+Log: Unbound to Core.dll
+Log: Unbound to Window.dll
+Log: -0.0ms Unloading: Package Engine
+Log: -0.0ms Unloading: Package Core
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Rendering shut down
+Log: -0.0ms Unloading: Package Entry
+Log: -0.0ms Unloading: Package Logo
+Log: Unbound to Fire.dll
+Log: -0.0ms Unloading: Package Fire
+Log: -0.0ms Unloading: Package credits
+Log: -0.0ms Unloading: Package Botpack
+Log: -0.0ms Unloading: Package UnrealShare
+Log: -0.0ms Unloading: Package UnrealI
+Log: -0.0ms Unloading: Package Female2Voice
+Log: -0.0ms Unloading: Package Male2Voice
+Log: -0.0ms Unloading: Package Female1Voice
+Log: -0.0ms Unloading: Package BossVoice
+Log: -0.0ms Unloading: Package Male1Voice
+Log: -0.0ms Unloading: Package UMenu
+Log: -0.0ms Unloading: Package UWindow
+Log: -0.0ms Unloading: Package UBrowser
+Log: Unbound to IpDrv.dll
+Log: -0.0ms Unloading: Package IpDrv
+Log: -0.0ms Unloading: Package Announcer
+Log: -0.0ms Unloading: Package Detail
+Log: -0.0ms Unloading: Package GenFX
+Log: -0.0ms Unloading: Package NaliCast
+Log: -0.0ms Unloading: Package RainFX
+Log: -0.0ms Unloading: Package DecayedS
+Log: -0.0ms Unloading: Package GenIn
+Log: -0.0ms Unloading: Package NaliFX
+Log: -0.0ms Unloading: Package genfluid
+Log: -0.0ms Unloading: Package AmbModern
+Log: -0.0ms Unloading: Package AmbAncient
+Log: -0.0ms Unloading: Package AmbOutside
+Log: -0.0ms Unloading: Package UTMenu
+Log: -0.0ms Unloading: Package LadderSounds
+Log: Unbound to UWeb.dll
+Log: -0.0ms Unloading: Package UWeb
+Log: -0.0ms Unloading: Package UTServerAdmin
+Log: -0.0ms Unloading: Package IpServer
+Log: -0.0ms Unloading: Package LadrArrow
+Log: -0.0ms Unloading: Package SoldierSkins_Borg
+Log: Unbound to D3D9Drv.dll
+Log: Unbound to Galaxy.dll
+DevAudio: Galaxy SetViewport: NULL
+DevMusic: Unregister music: Music Godown.Godown
+Exit: Galaxy shut down
+Log: -0.0ms Unloading: Package LadderFonts
+Log: -0.0ms Unloading: Package UWindowFonts
+Log: -0.0ms Unloading: Package utmenu23
+Log: -0.0ms Unloading: Package JailBreak
+Log: -0.0ms Unloading: Package JBAudio
+Log: -0.0ms Unloading: Package UTBrowser
+Log: -0.0ms Unloading: Package UTtech1
+Log: -0.0ms Unloading: Package XFX
+Log: -0.0ms Unloading: Package Palettes
+Log: -0.0ms Unloading: Package GenEarth
+Log: -0.0ms Unloading: Package JB-Alcatraz
+Log: -0.0ms Unloading: Package richrig
+Log: -0.0ms Unloading: Package Mine
+Log: -0.0ms Unloading: Package UT
+Log: -0.0ms Unloading: Package Metalmys
+Log: -0.0ms Unloading: Package PlayrShp
+Log: -0.0ms Unloading: Package Slums
+Log: -0.0ms Unloading: Package Indus6
+Log: -0.0ms Unloading: Package Crypt2
+Log: -0.0ms Unloading: Package ShaneDay
+Log: -0.0ms Unloading: Package Activates
+Log: -0.0ms Unloading: Package JBArena
+Log: -0.0ms Unloading: Package DoorsMod
+Log: -0.0ms Unloading: Package ScriptedScreen
+Log: -0.0ms Unloading: Package DoorsAnc
+Log: -0.0ms Unloading: Package Screen
+Log: -0.0ms Unloading: Package ScreenFonts
+Log: -0.0ms Unloading: Package Coret_FX
+Log: -0.0ms Unloading: Package Godown
+Log: -0.0ms Unloading: Package FCommandoSkins
+Log: -0.0ms Unloading: Package SoldierSkins
+Log: -0.0ms Unloading: Package Relics
+Init: Shut down moving brush tracker for Level JB-Alcatraz.MyLevel
+Log: Garbage: objects: 30695->0; refs: 607735
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  12.948M /  0.746M
+Uninitialized: Peak Memory  91.732M /  87.191M
+Uninitialized: Allocs          47 Current /  64139837 Total
+Uninitialized: Log file closed, 06/06/19 17:02:23

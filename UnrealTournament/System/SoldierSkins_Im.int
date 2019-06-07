@@ -1,0 +1,22 @@
+[public]
+Object=(Name=SoldierSkins_Im.Comm1,Class=Texture,Description="Imperium")
+Object=(Name=SoldierSkins_Im.Comm2,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm3,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm4,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm4kp,Class=Texture,Description="Blue Commander")
+Object=(Name=SoldierSkins_Im.Comm4kp2,Class=Texture,Description="Red Commander")
+Object=(Name=SoldierSkins_Im.Comm4kp3,Class=Texture,Description="Green Commander")
+Object=(Name=SoldierSkins_Im.Comm4kp4,Class=Texture,Description="Gold Commander")
+Object=(Name=SoldierSkins_Im.Comm5kp,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm5kp2,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm5kp3,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm5kp4,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm1t_0,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm1t_2,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm2t_0,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm2t_2,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm3t_0,Class=Texture)
+Object=(Name=SoldierSkins_Im.Comm3t_2,Class=Texture)
+
+
+

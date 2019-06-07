@@ -1,0 +1,31 @@
+[public]
+
+Object=(Name=Soldier_Comic2.Gren1,Class=Texture,Description="Green Lantern")
+Object=(Name=Soldier_Comic2.Gren2,Class=Texture)
+Object=(Name=Soldier_Comic2.Gren3,Class=Texture)
+Object=(Name=Soldier_Comic2.Gren4Hal,Class=Texture,Description="Hal")
+Object=(Name=Soldier_Comic2.Gren5Hal,Class=Texture)
+
+Object=(Name=Soldier_Comic2.Iron1,Class=Texture,Description="Iron Man")
+Object=(Name=Soldier_Comic2.Iron2,Class=Texture)
+Object=(Name=Soldier_Comic2.Iron3,Class=Texture)
+Object=(Name=Soldier_Comic2.Iron4Iron,Class=Texture,Description="Iron Man")
+Object=(Name=Soldier_Comic2.Iron5Iron,Class=Texture)
+
+Object=(Name=Soldier_Comic2.Supr1,Class=Texture,Description="Superman")
+Object=(Name=Soldier_Comic2.Supr2,Class=Texture)
+Object=(Name=Soldier_Comic2.Supr3,Class=Texture)
+Object=(Name=Soldier_Comic2.Supr4Superman,Class=Texture,Description="Superman")
+Object=(Name=Soldier_Comic2.Supr5Superman,Class=Texture)
+
+Object=(Name=Soldier_Comic2.CapA1,Class=Texture,Description="Captain America2")
+Object=(Name=Soldier_Comic2.CapA2,Class=Texture)
+Object=(Name=Soldier_Comic2.CapA3,Class=Texture)
+Object=(Name=Soldier_Comic2.CapA4CaptainA,Class=Texture,Description="Captain America2")
+Object=(Name=Soldier_Comic2.CapA5CaptainA,Class=Texture)
+
+Object=(Name=Soldier_Comic2.Bats1,Class=Texture,Description="Batman")
+Object=(Name=Soldier_Comic2.Bats2,Class=Texture)
+Object=(Name=Soldier_Comic2.Bats3,Class=Texture)
+Object=(Name=Soldier_Comic2.Bats4Batman,Class=Texture,Description="Batman")
+Object=(Name=Soldier_Comic2.Bats5Batman,Class=Texture)

@@ -1,0 +1,133 @@
+===============================================================================
+Jailbreak III Service Pack 2
+===============================================================================
+
+For feedback, suggestions and bug reports, visit http://www.planetjailbreak.com
+
+
+===============================================================================
+Compatibility Notes
+===============================================================================
+
+The updated files included in Jailbreak III SP2 are designed to be network-
+compatible with Jailbreak III and Jailbreak III SP1.
+
+That means that you'll still be able to join and play on a game server that is
+running base Jailbreak III without version mismatches; and that server admins
+can safely update their servers with Jailbreak III SP2 without preventing
+players running base Jailbreak III or Jailbreak III SP1 from joining and
+playing on their server.
+
+You can directly update to SP2 from unpatched Jailbreak III. Jailbreak III SP1
+is not required for installing SP2.
+
+
+===============================================================================
+Changes/Fixes
+===============================================================================
+
+* Hammer fights in jail work with any default weapon now, even mutated ones.
+  Friendly fire in jail is completely disabled now except for hammer fights.
+  Use the updated JBMadmen mutator to override this setting.
+
+* Included JailFight, a highly customizable mutator that awards weapons and
+  powerups as prizes for hammer-fighting in jail.
+
+* Added arena time countdown to arena combatants' HUD so they see when they're
+  running out of time to frag each other.
+
+* Added three more custom interface skins to select from.
+
+* Fixed arena cam occasionally rotating the long way to a new camera angle.
+
+* Fixed several minor HUD display flaws, such as the compass briefly flickering
+  when traveling through warp zones and the spectator arena time countdown
+  being too large at low resolutions.
+
+* More performance optimization client-side.
+
+* Death sequence taunt is properly randomized now when playing with humans.
+
+* Fixed incompatibility of llama effect with UTPure51. No more server kicks
+  when the llama effect kicks in. Compatibility has been tested and confirmed
+  up to UTPure53.
+
+* Fixed death sequence behavior. Players from the captured team dying during
+  the death sequence are freed and restarted in freedom regardless of the cause
+  and location of their death. That allows for much more freedom designing
+  custom death scenes.
+
+* Fixed PreventDeath in mutators being called, but its return value not being
+  processed properly. Mutators like WhoPushedMe work well with Jailbreak now.
+
+* Fixed Screen not playing well with HUD other mutators.
+
+* Help button in config dialog opens the local version of the manual, not the
+  online one.
+
+* Introduced mapping support for arena slave zones: Arenas can include multiple
+  zones now, for instance water, slime or lava.
+
+* Introduced mapping support for RedCapturePending and BlueCapturePending
+  events which are fired when the death cam is activated for the capturing
+  team, a few seconds before RedCaptured or BlueCaptured is fired.
+
+* Improved game type cross-support for Jailbreak actors. When used with a
+  different game type than Jailbreak, they automatically behave sensibly now:
+  Spawn points in jail and in the arena disable themselves, and the arena logic
+  is suspended.
+
+See Help\JailbreakIII-SP1.txt for details on the bugs fixed and features added
+by Jailbreak III SP1.
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+Double-click the umod file and follow the instructions on the screen.
+
+
+===============================================================================
+Zip Installation
+===============================================================================
+
+The zip file includes information about in which subdirectories the files
+should be placed; simply extract all files in your UnrealTournament folder, and
+all files should go where they belong to.
+
+If that doesn't work out, extract the files manually into the following
+directories:
+
+  UnrealTournament\Help     *.txt
+  UnrealTournament\System   *.u
+                            *.int
+                            *.ini
+  UnrealTournament\Web      *.uhtm
+
+Add this line to the [Engine.GameEngine] section of UnrealTournament.ini:
+
+  ServerPackages=JailFight
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Jailbreak III Service Pack 2
+Jailbreak III for Unreal Tournament
+
+Copyright (c) 2000-2002 by the UT Jailbreak III Team
+Contact <feedback@planetjailbreak.com> for feedback
+
+This mod is freely available for noncommercial use. For any other use and
+distribution, please contact the Jailbreak Team <team@planetjailbreak.com> in
+advance for permission.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

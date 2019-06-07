@@ -1,0 +1,77 @@
+===============================================================================
+Jailbreak III Gold
+===============================================================================
+
+For feedback, suggestions and bug reports, visit http://www.planetjailbreak.com
+
+
+===============================================================================
+Umod Installation
+===============================================================================
+
+Double-click the umod file and follow the instructions on the screen.
+
+
+===============================================================================
+Zip Installation
+===============================================================================
+
+The zip file includes information about in which subdirectories the files
+should be placed; simply extract all files in your UnrealTournament folder, and
+all files should go where they belong to.
+
+If that doesn't work out, extract the files manually into the following
+directories:
+
+  UnrealTournament\Help      *.txt
+  UnrealTournament\Maps      *.unr
+  UnrealTournament\System    *.u
+                             *.int
+                             *.ini
+  UnrealTournament\Textures  *.utx
+  UnrealTournament\Sounds    *.uax
+
+Add the following lines to UnrealTournament.ini in order to automatically load
+the Jailbreak actors needed for mapping:
+
+  [Editor.EditorEngine]
+  EditPackages=JailBreak
+  EditPackages=JBArena
+  EditPackages=JBSpecials
+  EditPackages=Screen
+
+Add the following lines to UnrealTournament.ini in order to run a Jailbreak
+server:
+
+  [Engine.GameEngine]
+  ServerPackages=JailBreak
+  ServerPackages=JBArena
+  ServerPackages=JBSpecials
+  ServerPackages=Screen
+
+If you want to use the JailFight mutator, also add the following line to the
+[Engine.GameEngine] section:
+
+  ServerPackages=JailFight
+
+
+===============================================================================
+Copyright/Permissions
+===============================================================================
+
+Jailbreak III Gold for Unreal Tournament
+
+Copyright (c) 2000-2002 by the UT Jailbreak III Team
+Contact <feedback@planetjailbreak.com> for feedback
+
+This mod is freely available for noncommercial use. For any other use and
+distribution, please contact the Jailbreak Team <team@planetjailbreak.com> in
+advance for permission.
+
+
+===============================================================================
+
+UNREAL (c) 1998 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=BigBoy.BBModMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="Configure BigBoy,Configure BigBoy")
+MetaClass=UMenu.UMenuModMenuItem,Description="Configure BigBoy,Configure BigBoy")
+Object=(Name=BigBoy.BigBoy,Class=Class,MetaClass=Engine.Mutator,Description="Bigboy")

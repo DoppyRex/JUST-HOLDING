@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=lego_schetina.asgl1,Class=Texture,Description="AutoServiceGuy")
+Object=(Name=lego_schetina.pmlm1,Class=Texture,Description="PoliceMan")
+Object=(Name=lego_schetina.worl1,Class=Texture,Description="Worker")

@@ -1,0 +1,112 @@
+JB-Storm
+
+ReadMe for Unreal Tournament
+
+----------------------------
+
+Title: Stormy Intent
+
+Author: James 'Chezdog' McLean
+
+eMail Address: jamesmc11@hotmail.com
+
+Website URL: http://www.unrealism.com/chezdog
+
+Release Date: Tuesday, September 9, 2003
+
+Version: 1.00
+
+Credits: Thanks to Sexmachine, Snowdog, Spoondog, RevBillyG and Rob for extensive testing.
+		Thanks to Spoon for the small bug fixes.
+
+Other levels by author: Look at my website.
+
+====================================================================================
+
+Play Information
+
+----------------
+
+Game: Unreal Tournament
+
+Level Name: JB-Storm
+
+Game Type: JailBreak
+
+Botmatch: Yes
+
+Single Player: No
+
+Teamplay: Yes
+
+Difficulty Settings: Only For Bots
+
+New Textures: No
+
+New Sounds: No
+
+New Music: No
+
+New Mutators: No
+
+Mods: No
+
+====================================================================================
+
+Construction
+
+------------
+
+Base: Original Map
+
+Build Time: Dunno
+
+Recommended # of Players: 6-10
+
+Editor(s) Used: UnrealEd, PhotoShop.
+
+====================================================================================
+
+Mods
+
+----
+
+UT JailBreak - The best mod ever.
+
+====================================================================================
+
+Extended Description
+
+--------------------
+
+Nestled deep within the tropical forests of the shikaka lies a training ground for local tribemen turned Jailbreak hopefuls to prove their wares. This disused complex has gained more attention of late as the professional Jailbreak leagues have looked to expand their K9 section to new and untested training grounds.
+Let the battle of stormy intent begin....
+
+====================================================================================
+
+Copyright / Permissions
+
+-----------------------
+
+This level is copyright 2003, by James 'ChezDog' McLean
+
+Authors may NOT use this level as a base to build additional levels without explicit
+permission from the Original Author.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any
+other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this level through any electronic network (internet (web/ftp),
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+UNREAL (c)1998 Epic Megagames, Inc. All Rights Reserved. Distributed by GT
+Interactive Software, Inc. under license. UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+
+UNREAL TOURNAMENT (c)1999 Epic Megagames, Inc. All Rights Reserved. Distributed by
+GT Interactive Software, Inc. under license. UNREAL TOURNAMENT and the UNREAL
+TOURNAMENT logo are registered trademarks of Epic Megagames, Inc. All other
+trademarks and trade names are properties of their respective owners.
+
+====================================================================================

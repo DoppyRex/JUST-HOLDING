@@ -1,0 +1,31 @@
+Team K9 Power Pack
+==================
+
+Author: Team K9 - Chezdog, Snowdog & Spoondog
+
+Release Date: Tuesday, September 9, 2003
+
+
+The maps are all designed to be fast and furious.  Detailed maps with close combat and wicked
+gameplay are what you'll find here (hence the name "Power Pack").  The maps are all new, apart
+from one CTF conversion (Sprinta), and you will find some extremely new and original stuff,
+including a new weapon!
+
+
+Got lots of credit to give out here:
+
+Thanks to Wormbo for a number of scripts for the pack, including the Snowgun in Frostbite
+and the DefaultWeaponMutator in Doom. Big thanks to Sexmachine and Rob for bringing the Jailbreak
+touch to Arboria, Doom, and Frostbite, great job! and especially to Sexmachine for the use of his
+server, his hosting, and for creating the distribution packages... and for generally motivating
+(whipping) us to get this finished!
+
+The pack has been sitting around for about a year, RealLife among other things getting in
+the way, but now it comes to the community complete and ready for your enjoyment!
+
+Go nuts!
+
+BTW:  keep your eye out for the CTF version of this Power Pack.
+
+
+Team K9
